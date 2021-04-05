@@ -1,0 +1,553 @@
+/* nabar text style */
+.navbar-nav .nav-item a {
+    color: #2500F9 !important;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    padding: 15px 0px;
+}
+
+.navbar-nav .nav-item .text {
+    color: #fff !important;
+    background-color: #2500F9;
+    border-radius: 35px;
+    padding: 15px 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* navbar toggle colar */
+.navbar-toggler {
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+    background: #2500F9;
+    outline: none;
+    border: none;
+}
+
+/* second section Best app for your modern lifestyle  */
+.editor {
+    background-color: #E2EAED;
+    width: 300px;
+    font-size: small;
+    color: #2500F9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.margin_top {
+    margin-top: 200px;
+}
+
+/* text style */
+.text2 {
+    font-size: 50px;
+    color: #242F51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.text3 {
+    font-size: 15px;
+    color: #616368;
+    width: 440px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* button style   */
+.button1 {
+    color: #fff !important;
+    background-color: #2500F9;
+    border-radius: 35px;
+    padding: 15px 30px;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.video_btn {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: #2500f9;
+}
+
+.video_btn:hover {
+    color: #fff !important;
+    background-color: #2500F9;
+    border-radius: 35px;
+    padding: 15px 30px;
+    font-weight: 600;
+    text-align: center;
+    transition: .7s;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* third section style */
+.text_header {
+    color: #242f51;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.d-inline a {
+    padding: 50px 0px;
+    margin-left: 100px;
+}
+
+/* fourth section style */
+.text4 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #242f51;
+    width: 300px;
+    margin-top: 100px !important;
+}
+
+.logo3 {
+    height: 80px;
+    width: 80px;
+}
+
+.head_1 {
+    color: #f55767;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.para_1 {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    width: 22s0px;
+}
+
+.head_2 {
+    color: #2563ff;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.head_3 {
+    color: #40975f;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* fifth section Smart jackpots that you may love this anytime & anywhere  */
+.text5 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #242f51;
+    width: 330px;
+    font-weight: 600;
+}
+
+.para_2 {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    width: 380px;
+    margin-top: 30px;
+    margin-left: 0px;
+}
+
+.margin_left {
+    margin-left: 200px;
+}
+
+.border_left {
+    border-left: 1px solid silver;
+}
+
+/* seventh section Why you should choose our app */
+.text6 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #242f51;
+    font-weight: 600;
+    padding: 0px 350px;
+}
+
+.para_3 {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    padding: 0px 300px;
+    margin-top: -40px !important;
+}
+
+.head_4 {
+    color: #242f51;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.para_4 {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    padding: 0px 70px;
+}
+
+/* eighth section Ultimate features that we built */
+.margin_bottom {
+    margin-top: -100px;
+}
+
+/* nineth section Get awesome features, without extra charges */
+.text7 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #242f51;
+    font-weight: 600;
+    padding: 0px 300px;
+}
+
+.card {
+    border: none;
+}
+
+.btn2 {
+    text-decoration: none;
+    color: #616368;
+}
+
+.btn2:hover {
+    color: #fff !important;
+    background-color: #2500F9;
+    border-radius: 35px;
+    padding: 15px 30px;
+    font-weight: 600;
+    text-align: center;
+    transition: .7s;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10px;
+}
+
+.btn3 {
+    text-decoration: none;
+    color: #2500F9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bold_style span {
+    font-size: 35px;
+    color: #242f51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.bold_style {
+    font-family: 'Poppins', sans-serif;
+    color: #a4a6a8;
+}
+
+/* 10th section style client satisfaction */
+.text8 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #242f51;
+    font-weight: 600;
+}
+
+.head_5 {
+    font-family: 'Poppins', sans-serif;
+    color: #242f51;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.para_5 {
+    font-size: 15px;
+    color: #616368;
+    width: 490px;
+    font-family: 'Poppins', sans-serif;
+}
+.dis_2{
+    padding-top: 5px;
+    padding-left: 122px;
+}
+/* 11 section frequently ask question */
+.para_6{
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    padding: 0px 300px;
+}
+.body{
+   padding: 35px 180px 10px 180px;
+}
+.text9{
+    color: #242f51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+.para_7 {
+    color: #616368;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    padding-right: 120px;
+}
+.margin_left2{
+    margin-left: 300px;
+}
+.margin_left3{
+    margin-left: 380px;
+}
+.margin_left4{
+    margin-left: 360px;
+}
+
+
+/* footer section */
+.back{
+    background-color: #09142E;
+}
+#socials a{
+    color: #273043 ;
+}
+#socials a:hover{
+    color: #fff;
+}
+
+
+/* media quriey */
+@media only screen and (max-width: 480px){
+   /* nabar media */
+   .navbar-nav{
+        text-align: center;
+        background-color: #242f51;
+    }
+    .navbar-nav a:hover{
+        color: #fff !important;
+    }
+
+    /* second section */
+    .margin_top{
+        margin-left: -35px !important;
+    }
+    .video_btn{
+        font-size: smaller;
+    }
+
+    /* thid section */
+    .text_header{
+        font-size: 25px;
+        color: #616368;
+    font-family: 'Poppins', sans-serif;
+    }
+    .d-inline a{
+      display: block;
+      padding: 30px 28px;
+    }
+    /* fourth section img */
+    .image2{
+        height: auto;
+        width: 400px !important;
+    }
+    .logo3{
+        margin-left: 140px;
+        width: 120px;
+        height: 120px;
+
+    }
+    .head_1{
+        text-align: center;
+        margin-left: 30px;
+    }
+    .para_1{
+        text-align: center;
+       width: 370px;
+       font-size: medium;
+    }
+    .head_2{
+        text-align: center;
+        margin-left: 45px;
+    }
+    .head_3{
+        text-align: center;
+        margin-left: 66px;
+        margin-top: 10px;
+    }
+    /* fifth section style */
+    .text5{
+      margin-left: 160px;
+      text-align: center;
+    }
+    .para5{
+        text-align: center;
+      margin-left: -170px !important;
+    }
+    .border_left{
+        border-bottom: 5px solid silver !important;
+        margin-left: -200px;
+    }
+    .para_2{
+        text-align: center;
+        margin-left: -200px;
+        font-size: medium;
+    }
+    .five{
+        margin-left: -200px;
+    }
+    /* sixth section img */
+    .imge3{
+        width: 400px;
+    }
+    /* seven section */
+    .text6{
+        margin-left: -10px;
+        text-align: center;
+        width: 100%;
+        padding: 10px;
+    }
+    .para_3{
+        padding: 05px;
+    }
+    .para4{
+        padding: 10px;
+    }
+    .logo_img{
+        margin-left: 0px;
+    }
+    .head4{
+       margin-left: 10px !important;
+    }
+    /* eight section style */
+    .text5{
+        margin-left: -14px;
+    }
+    .para2{
+        margin-left: -50px;
+    }
+    .img_logo{
+        margin-left: 100px;
+    }
+    .head_4{
+        margin-left: -30px;
+        text-align: center;
+    }
+    .para3{
+        margin-left: -40px;
+    }
+    .margin_bottom{
+        width: 400px;
+        margin: 0px;
+    }
+
+    /* nine section */
+    .text7{
+        padding: 0px;
+    }
+    .card{
+        margin-left: -100px;
+    }
+    .card p{
+     font-size: 10px;
+    }
+    .card h5{
+        font-size: 13px;
+        margin-left: 8px;
+    }
+    .card.bold_style{
+        font-size: 100px !important;
+    }
+    .card_body{
+        margin-left: 25px;
+    }
+    .button1,.btn3{
+        font-size: smaller;
+    }
+    /* 10th client img section */
+    .image5{
+        width: 450px;
+    }
+    .meet_client{
+        margin-left: -35px;
+    }
+    .name{
+        margin-left: 70px;
+    }
+    .name2{
+        text-align: center;
+        margin-left: -55px;
+    }
+    .dis_2{
+        margin-left: 70px;
+    }
+    .para7{
+        font-size: 15px;
+        color: #616368;
+        width: 400px;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    /* 11 section */
+    .text_8{
+        margin-left: 90px;
+        margin-top: -140px !important;
+    }
+    .para_6{
+        padding: 0px;
+        margin-left: 50px;
+    }
+    .body{
+        padding:10px;
+       width: 100%;
+     }
+    .text9{
+        text-align: center;
+        margin-left: 10px;
+    }
+    .para_7{
+        text-align: justify;
+       margin-left: 25px;
+        width: 500px;
+    }
+    .comments{
+        width: 400px;
+    }
+    .question{
+        margin-left: 16px;
+    
+        font-size: 11.5px;
+        font-weight: 700;
+    }
+    .margin-left{
+        margin-left: 4px;
+    }
+    .margin_left2{
+        margin-left: 4px;
+    }
+    .margin_left3{
+        margin-left: 4px;
+    }
+    .margin_left4{
+        margin-left: 4px;
+    }
+    .form_card{
+        width: 370px !important;
+        margin-left: 20px;
+    }
+
+    /* 12th section play store */
+    .para6{
+    font-size: 12px;
+    color: #616368;
+    width: 390px;
+    font-family: 'Poppins', sans-serif;
+    }
+    .image6{
+        width: 100%;
+        height: 300px;
+        margin-top: 20px;
+    }
+    /* footer section */
+    .menu a{
+        padding: 0px 5px !important;
+    }
+}
+html{
+    scroll-behavior: smooth;
+  }
